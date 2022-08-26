@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a software engineer who codes only by voice and spend my time building tools primarily for voice control, like [Cursorless](https://www.cursorless.org). Beside programming I have a passion for audio and sound reproduction which led me to develop my own digital sound processor: [WinDSP](https://github.com/AndreasArvidsson/WinDSP) that has been the brain of my home theatre system for years. 
+I am a software engineer who codes only by voice and spend my time building tools primarily for voice control, like [Cursorless](https://www.cursorless.org). Beside programming I have a passion for audio and sound reproduction which led me to develop my own digital sound processor, [WinDSP](https://github.com/AndreasArvidsson/WinDSP), that has been the brain of my home theatre system for years. 
 
-If you like to talk about voice control join [Talon slack](https://talonvoice.slack.com) and if you like to support my work please consider [sponsoring me](https://github.com/sponsors/AndreasArvidsson) :blush:
+If you like to talk about voice control, join [Talon slack](https://talonvoice.slack.com) and if you like to support my work, please consider [sponsoring me](https://github.com/sponsors/AndreasArvidsson) :blush:
 
 <!--
 **AndreasArvidsson/AndreasArvidsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
